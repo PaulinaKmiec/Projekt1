@@ -45,7 +45,7 @@ vector<vector<int> > findAllSubseries(vector<int> numbers) {
     return substrings;
 }
 
-//wypisanie elementów wektora w konsoli
+//wypisanie elementów wektora w konsoli a
 void printSubstring(vector<int> substring) {
     for (unsigned i = 0; i < substring.size(); i++) {
         cout << substring[i] << " ";
