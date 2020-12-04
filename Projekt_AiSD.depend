@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606992209 source:c:\users\paula\desktop\nowy projekt\projekt_aisd\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
